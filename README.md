@@ -18,7 +18,7 @@
 </p>
 <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="movie.ogg" type="Mahabub/VID_20241122_115041_637.mp4">
   Your browser does not support the video tag.
 </video>
 
